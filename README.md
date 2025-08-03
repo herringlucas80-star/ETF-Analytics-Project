@@ -2,7 +2,7 @@
 
 ## Overview 
 This project analyzes ETF performance, capital flows, and market liquidity to simulate the type of analysis performed on a trading desk. 
-Built for the **Susquehanna International Group (SIG) ETF Internship 2026 and other related internships**. 
+Built for **Related internships**. 
 
 ## Features 
 **Feature 1: ETF Screener & Return Analysis** 
